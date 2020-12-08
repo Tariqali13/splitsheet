@@ -3,19 +3,10 @@
   "version": "9.0.0-rc.13",
   "description": "CoreUI Free Angular 2+ Admin Template",
   "author": {
-    "name": "Łukasz Holeczek",
-    "url": "http://holeczek.pl",
-    "github": "https://github.com/mrholek",
-    "twitter": "https://twitter.com/lukaszholeczek"
+    "name": "RS GLOW TECH",
   },
-  "contributors": [
-    {
-      "name": "Andrzej Kopański",
-      "url": "https://github.com/xidedix"
-    }
-  ],
   "homepage": "https://coreui.io/angular",
-  "copyright": "Copyright 2019 creativeLabs Łukasz Holeczek",
+  "copyright": "Copyright 2020 creativeLabs rs glow tech",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
