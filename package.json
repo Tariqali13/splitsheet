@@ -19,9 +19,10 @@
   "license": "MIT",
   "scripts": {
     "ng": "ng",
+    "start": "node server.js",
     "postinstall": "ngcc --properties es2015 browser module main --first-only --create-ivy-entry-points",
     "heroku-postbuild": "ng build --prod",
-    "start": "ng serve --port=4200",
+    "dev": "ng serve --port=4200",
     "build1": "ng build --prod --aot --buildOptimizer --commonChunk --vendorChunk --optimization --progress",
     "build": "ng build --prod",
     "test": "ng test",
